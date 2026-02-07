@@ -5,7 +5,7 @@ A CLI tool to manage and switch between multiple git user profiles (personal, wo
 ## Installation
 
 ```bash
-pip install -e .
+pip install git+https://github.com/mendelevium/git-switch.git
 ```
 
 ## Usage
